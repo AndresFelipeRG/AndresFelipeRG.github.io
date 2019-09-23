@@ -2,7 +2,7 @@
 
 Hi, I was born in Colombia and moved to Canada when I was a teenager. I have a degree in software engineering from the faculty of Engineering at McGill university. I speak Spanish, English, and French. I like to learn about software engineering technologies and find their applications. In my free time I like to play soccer, road biking, and practice judo. In the content below, you can find some of the projects I have done and more info about me. Thank you!
 
-### Portfolio
+## Portfolio
 
 In my free time, I like to explore new software technologies, learn them, and find applications to them by coding software applications. These are some of my projects: 
 
@@ -18,7 +18,7 @@ Created a web application that provides access to video games. Each video game i
 
 Technologies covered: Unity, WebGL, C#, SapUI5/OpenUI5, JSON, XML, HTML, Git, CSS, jQuery/JavaScript
 
-### Education
+## Education
 
 #### McGill university
 I completed a Bachelor of Engineering at McGill university. I completed a major in Software Engineering and Computer Science. During my undergraduate studies, I enjoyed all my engineering, science, design project, and management courses. My extracurricular activities were soccer intramurals and judo at McGill university.
@@ -26,7 +26,7 @@ I completed a Bachelor of Engineering at McGill university. I completed a major 
 #### Laval university
 I completed 2 terms at Laval university in Electrical Engineering. 
 
-### Experience
+## Experience
 #### Software Developer internship at SAP 
 - Integrated a data privacy microservice into an enterprise application
 -	Extended an API using  Java, Hibernate, Spring, and SAP’s ODATA libraries
@@ -43,8 +43,7 @@ I completed 2 terms at Laval university in Electrical Engineering.
 -	Used Dynatrace to monitor services, applications, and databases in the Cloud Foundry cloud platform
 -	Added automated tests into a Jenkins pipeline
 
-### Projects
-### Publications
+## Publications
 -	**Do Software Engineers use autocomplete features differently than other software practitioners?**
 Reference: [Link](https://dl.acm.org/citation.cfm?id=3196398.3196471)
 

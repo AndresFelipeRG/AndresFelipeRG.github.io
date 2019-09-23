@@ -14,7 +14,7 @@ Technologies covered: Java, SapUI5/OpenUI5, Google Cloud Platform, Hibernate, Sp
 
 #### Video Game platform 
 
-Created a web application that provides access to video games. Each video game is built using the Unity platform. Users access a video game through an interface built with the SapUI5 framework.
+Created a web application that provides access to video games. Each video game was built using the Unity platform. Users access a video game through an interface built with the SapUI5 framework.
 
 Technologies covered: Unity, WebGL, C#, SapUI5/OpenUI5, JSON, XML, HTML, Git, CSS, jQuery/JavaScript
 

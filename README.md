@@ -1,6 +1,6 @@
 ## Andrés Felipe Rincón Gamboa
 
-Hi, I was born in Colombia and moved to Canada when I was a teenager. I have a degree in software engineering from the faculty of Engineering at McGill university. I speak Spanish, English, and French. I like to learn about software engineering technologies and find their applications. In my free time I like to play soccer, road biking, and practice judo. In the content below, you can find some of the projects I have done and more info about me. Thank you!
+Hi, I was born in Colombia and moved to Canada when I was a teenager. I have a degree in software engineering from the faculty of Engineering at McGill university. I speak Spanish, English, and French. I like to learn about software engineering technologies and find their applications. In my free time I like to play soccer, I do road biking, and I practice judo. In the content below, you can find some of the projects I have done and more info about me. Thank you!
 
 ## Portfolio
 

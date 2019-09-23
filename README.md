@@ -22,7 +22,7 @@ I completed 2 terms at Laval university in Electrical Engineering.
 -	Developed code using the SOLID principles
 -	Deployed and tested a web application in the Cloud Foundry cloud platform
 -	Produced unit tests in Java and integration tests in jQuery/JavaScript for an enterprise application
--	Acquired knowledge of Agile software development practices while being a member of a Scrum team
+-	Acquired knowledge of Agile software development practices 
 -	Created  a docker image to run a Jenkins pipeline and created scripts using Shared Jenkins libraries
 -	Used Dynatrace to monitor services, applications, and databases in the Cloud Foundry cloud platform
 -	Added automated tests into a Jenkins pipeline

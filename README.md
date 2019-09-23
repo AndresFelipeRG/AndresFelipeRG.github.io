@@ -1,37 +1,34 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/AndresFelipeRG/andres.felipe.rincon.gamboa.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### McGill university
+I completed a Bachelor of Engineering at McGill university. My major
+#### Laval university
+I completed 2 terms at Laval university in Electrical Engineering. During my 
+### Experience
+#### Software Developer internship at SAP 
+- Integrated a data privacy microservice into an enterprise application
+-	Extended an API using  Java, Hibernate, Spring, and SAP’s ODATA libraries
+- Developed code using backend technologies such as Core Java, Spring framework, JSON, XML, REST, and Hibernate
+- Developed code in Java and SQL to retrieve/upload data from a database
+-	Mentored and supported team members
+- Wrote a blog post regarding Automated testing and published it in SAP blogs
+-	Participated in a global organization, demonstrated energy, self-motivation and team player skills
+-	Developed code using the SOLID principles
+-	Deployed and tested a web application in the Cloud Foundry cloud platform
+-	Produced unit tests in Java and integration tests in jQuery/JavaScript for an enterprise application
+-	Acquired knowledge of Agile software development practices while being a member of a Scrum team
+-	Created  a docker image to run a Jenkins pipeline and created scripts using Shared Jenkins libraries
+-	Used Dynatrace to monitor services, applications, and databases in the Cloud Foundry cloud platform
+-	Added automated tests into a Jenkins pipeline
 
-```markdown
-Syntax highlighted code block
+### Projects
+### Publications
+-	**Do Software Engineers use autocomplete features differently than other software practitioners? **
+Reference: [Link](https://dl.acm.org/citation.cfm?id=3196398.3196471)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndresFelipeRG/andres.felipe.rincon.gamboa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **Headless One Page Acceptance Tests(OPA) testing in Jenkins pipeline with Karma, UI5, Puppeteer, Docker, and the Project Piper **
+Reference: [Link](https://blogs.sap.com/2019/08/01/headless-one-page-acceptance-testsopa-testing-in-jenkins-pipeline-with-karma-ui5-puppeteer-docker-and-the-project-piper/)

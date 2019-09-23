@@ -1,6 +1,22 @@
 ## Andrés Felipe Rincón Gamboa
 
+Hi, I was born in Colombia and moved to Canada when I was a teenager. I have a degree in software engineering from the faculty of Engineering at McGill university. I speak Spanish, English, and French. I like to learn about software engineering technologies and find their applications. In my free time I like to play soccer, road biking, and practice judo. In the content below, you can find some of the projects I have done and more info about me. Thank you!
 
+### Portfolio
+
+In my free time, I like to explore new software technologies, learn them, and find applications to them by coding software applications. These are some of my projects: 
+
+#### Natural Language Application 
+
+Created a web application that retrieves financial data from the IEX platform. This application uses Google’s Natural Language API  to score financial news. Scores are logged into a Google Cloud Datastore instance. The application provides an interface that displays financial news sentiment scores.
+
+Technologies covered: Java, SapUI5/OpenUI5, Google Cloud Platform, Hibernate, Spring, Java, HTML, JSON, XML, Maven, Git, CSS, jQuery/JavaScript, Google Datastore.
+
+#### Video Game platform 
+
+Created a web application that provides access to video games. Each video game is built using the Unity platform. Users access a video game through an interface built with the SapUI5 framework.
+
+Technologies covered: Unity, WebGL, C#, SapUI5/OpenUI5, JSON, XML, HTML, Git, CSS, jQuery/JavaScript
 
 ### Education
 

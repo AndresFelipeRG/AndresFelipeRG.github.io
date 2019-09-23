@@ -1,13 +1,15 @@
-## Welcome to GitHub Pages
+## Andrés Felipe Rincón Gamboa
 
 
 
 ### Education
 
 #### McGill university
-I completed a Bachelor of Engineering at McGill university. My major
+I completed a Bachelor of Engineering at McGill university. I completed a major in Software Engineering and Computer Science. During my undergraduate studies, I enjoyed all my engineering, science, design project, and management courses. My extracurricular activities were soccer intramurals and judo at McGill university.
+
 #### Laval university
-I completed 2 terms at Laval university in Electrical Engineering. During my 
+I completed 2 terms at Laval university in Electrical Engineering. 
+
 ### Experience
 #### Software Developer internship at SAP 
 - Integrated a data privacy microservice into an enterprise application
@@ -27,8 +29,8 @@ I completed 2 terms at Laval university in Electrical Engineering. During my
 
 ### Projects
 ### Publications
--	** Do Software Engineers use autocomplete features differently than other software practitioners? **
+-	**Do Software Engineers use autocomplete features differently than other software practitioners?**
 Reference: [Link](https://dl.acm.org/citation.cfm?id=3196398.3196471)
 
-- ** Headless One Page Acceptance Tests(OPA) testing in Jenkins pipeline with Karma, UI5, Puppeteer, Docker, and the Project Piper **
+- **Headless One Page Acceptance Tests(OPA) testing in Jenkins pipeline with Karma, UI5, Puppeteer, Docker, and the Project Piper**
 Reference: [Link](https://blogs.sap.com/2019/08/01/headless-one-page-acceptance-testsopa-testing-in-jenkins-pipeline-with-karma-ui5-puppeteer-docker-and-the-project-piper/)

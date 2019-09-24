@@ -7,7 +7,7 @@ Hi, I was born in Colombia and moved to Canada when I was a teenager. I have a d
 In my free time, I like to explore new software technologies, learn them, and find applications to them by coding software applications. These are some of my projects: 
 
 #### Natural Language Application 
-
+Source code: [Link](https://github.com/AndresFelipeRG/NaturalLanguageApplicationGoogleAPI)
 Created a web application that retrieves financial data from the IEX platform. This application uses Google’s Natural Language API  to score financial news. Scores are logged into a Google Cloud Datastore instance. The application provides an interface that displays financial news sentiment scores.
 
 Technologies covered: Java, SapUI5/OpenUI5, Google Cloud Platform, Hibernate, Spring, Java, HTML, JSON, XML, Maven, Git, CSS, jQuery/JavaScript, Google Datastore.

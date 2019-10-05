@@ -14,7 +14,7 @@ Created a web application that retrieves financial data from the IEX platform. T
 Technologies covered: Java, SapUI5/OpenUI5, Google Cloud Platform, Hibernate, Spring, Java, HTML, JSON, XML, Maven, Git, CSS, jQuery/JavaScript, Google Datastore.
 
 #### Video Game platform 
-
+Source code: [Link](https://github.com/AndresFelipeRG/SAPUI5Projects/tree/master/Gaming)
 Created a web application that provides access to video games. Each video game was built using the Unity platform. Users access a video game through an interface built with the SapUI5 framework.
 
 Technologies covered: Unity, WebGL, C#, SapUI5/OpenUI5, JSON, XML, HTML, Git, CSS, jQuery/JavaScript

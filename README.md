@@ -13,11 +13,11 @@ Created a web application that retrieves financial data from the IEX platform. T
 
 Technologies covered: Java, SapUI5/OpenUI5, Google Cloud Platform, Hibernate, Spring, Java, HTML, JSON, XML, Maven, Git, CSS, jQuery/JavaScript, Google Datastore.
 
-#### Video Game platform 
-Source code: [Link](https://github.com/AndresFelipeRG/SAPUI5Projects/tree/master/Gaming)
-Created a web application that provides access to video games. Each video game was built using the Unity platform. Users access a video game through an interface built with the SapUI5 framework.
+### Unity Games
+These are some of the video games I have developed using the Unity platform and the programming language C#:
 
-Technologies covered: Unity, WebGL, C#, SapUI5/OpenUI5, JSON, XML, HTML, Git, CSS, jQuery/JavaScript
+• Tic-Tac-Toe unity game(Play on full screen size): [Link](https://andresfeliperg.github.io/TicTacUnityGame/)
+•	2D Side-Scrolling same: [Link] (https://andresfeliperg.github.io/UnityGame2D/)
 
 ## Education
 
@@ -29,20 +29,15 @@ I completed 2 terms at Laval university in Electrical Engineering.
 
 ## Experience
 #### Software Developer internship at SAP 
-- Integrated a data privacy microservice into an enterprise application
--	Extended an API using  Java, Hibernate, Spring, and SAP’s ODATA libraries
-- Developed code using backend technologies such as Core Java, Spring framework, JSON, XML, REST, and Hibernate
-- Developed code in Java and SQL to retrieve/upload data from a database
--	Mentored and supported team members
-- Wrote a blog post regarding Automated testing and published it in SAP blogs
--	Participated in a global organization, demonstrated energy, self-motivation and team player skills
--	Developed code using the SOLID principles
--	Deployed and tested a web application in the Cloud Foundry cloud platform
--	Produced unit tests in Java and integration tests in jQuery/JavaScript for an enterprise application
--	Acquired knowledge of Agile software development practices 
--	Created  a docker image to run a Jenkins pipeline and created scripts using Shared Jenkins libraries
--	Used Dynatrace to monitor services, applications, and databases in the Cloud Foundry cloud platform
--	Added automated tests into a Jenkins pipeline
+•	Developed  code  to integrate a data privacy microservice into the backend of an enterprise application  
+•	Developed features for microservices using Java EE, the Spring and the Hibernate frameworks
+•	Developed code for REST and OData APIs 
+•	Deployed and tested web applications in the Cloud Foundry cloud platform
+•	Developed unit and integration tests for the backend and frontend of an enterprise application
+•	Created  a docker image to run a Jenkins pipeline and to execute automated tests using Jenkins scripts and plugins
+•	Completed SAP online courses about frontend and backend development
+•	Supported team members and mentored new team members
+•	Wrote a blog post regarding Automated testing and published it in SAP blogs
 
 ## Publications
 -	**Do Software Engineers use autocomplete features differently than other software practitioners?**

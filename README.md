@@ -17,7 +17,7 @@ Technologies covered: Java, SapUI5/OpenUI5, Google Cloud Platform, Hibernate, Sp
 These are some of the video games I have developed using the Unity platform and the programming language C#:
 
 - Tic-Tac-Toe unity game(Play on full screen size):[Link](https://andresfeliperg.github.io/TicTacUnityGame/)
-- 2D Side-Scrolling same: [Link](https://andresfeliperg.github.io/UnityGame2D/)
+- 2D Side-Scrolling game: [Link](https://andresfeliperg.github.io/UnityGame2D/)
 
 ## Education
 

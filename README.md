@@ -22,7 +22,7 @@ These are some of the video games I have developed using the Unity platform and 
 ## Education
 
 #### McGill university
-I completed a Bachelor of Engineering at McGill university. I completed a major in Software Engineering and Computer Science. During my undergraduate studies, I enjoyed all my engineering, science, design project, and management courses. My extracurricular activities were soccer intramurals and judo at McGill university.
+I completed a Bachelor of Engineering at McGill university. I completed a major in Software Engineering and minor in Computer Science. During my undergraduate studies, I enjoyed all my engineering, science, design project, and management courses. My extracurricular activities were soccer intramurals and judo at McGill university.
 
 #### Laval university
 I completed 2 terms at Laval university in Electrical Engineering. 

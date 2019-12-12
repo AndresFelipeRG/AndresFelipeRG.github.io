@@ -36,7 +36,7 @@ I completed 2 terms at Laval university in Electrical Engineering.
 - Developed unit and integration tests for the backend and frontend of an enterprise application
 - Created  a docker image to run a Jenkins pipeline and to execute automated tests using Jenkins scripts and plugins
 - Completed SAP online courses about frontend and backend development
-- Supported team members and mentored new team members
+- Supported team members and helped to onboard new team members
 - Wrote a blog post regarding Automated testing and published it in SAP blogs
 
 ## Publications

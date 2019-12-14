@@ -26,7 +26,7 @@ RabbitMQ projects: [Link](https://github.com/AndresFelipeRG/rabbitmq)
 MongoDB projects: [Link](https://github.com/AndresFelipeRG/mongodbprojects)
 
 ### Redis
-Redis projects: [Link] (https://github.com/AndresFelipeRG/reddisprojects)
+Redis projects: [Link](https://github.com/AndresFelipeRG/reddisprojects)
 
 ## Education
 

@@ -20,7 +20,13 @@ These are some of the video games I have developed using the Unity platform and 
 - 2D Side-Scrolling game: [Link](https://andresfeliperg.github.io/UnityGame2D/)
 
 ### RabbitMQ 
-RabbitMQ sample applications: [Link](https://github.com/AndresFelipeRG/rabbitmq)
+RabbitMQ projects: [Link](https://github.com/AndresFelipeRG/rabbitmq)
+
+### MongoDB
+MongoDB projects: [Link](https://github.com/AndresFelipeRG/mongodbprojects)
+
+### Redis
+Redis projects: [Link] (https://github.com/AndresFelipeRG/reddisprojects)
 
 ## Education
 

@@ -16,6 +16,10 @@ Created a web application that retrieves financial data from the IEX platform. T
 
 Technologies covered: Java, SapUI5/OpenUI5, Google Cloud Platform, Hibernate, Spring, Java, HTML, JSON, XML, Maven, Git, CSS, jQuery/JavaScript, Google Datastore.
 
+### jQuery projects
+
+- jQuery simple interface: [Link](https://github.com/AndresFelipeRG/Jquery-Interface)
+
 ### Unity Games
 These are some of the video games I have developed using the Unity platform and the programming language C#:
 

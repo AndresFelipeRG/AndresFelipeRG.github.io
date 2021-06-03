@@ -1,13 +1,10 @@
 ## Andrés Felipe Rincón Gamboa
 
-Hi, I was born in Colombia and moved to Canada when I was a teenager. I have a degree in software engineering from the faculty of Engineering and a minor in Computer Science at McGill university . I speak Spanish, English, and French. I like to learn about software engineering technologies and find their applications. In my free time I like to play soccer, I do road biking, and I practice judo. In the content below, you can find some of the projects I have done and more info about me. Thank you!
+Hi, I was born in Colombia and moved to Canada when I was a teenager. I have a degree in software engineering from the faculty of Engineering and a minor in Computer Science at McGill university . I speak Spanish, English, and French. I like to learn about software engineering technologies and find their applications. In my free time I like to play soccer and I practice judo. In the content below, you can find some of the projects I have done and more info about me. Thank you!
 
 ## Portfolio
 
 In my free time, I like to explore new software technologies, learn them, and find applications to them by coding software applications. These are some of my projects: 
-
-#### Spring Multithreading Projects
-Source Code: [Link](https://github.com/AndresFelipeRG/multithreading)
 
 #### Natural Language Application 
 Source code: [Link](https://github.com/AndresFelipeRG/NaturalLanguageApplicationGoogleAPI)
@@ -20,11 +17,6 @@ Technologies covered: Java, SapUI5/OpenUI5, Google Cloud Platform, Hibernate, Sp
 
 - jQuery simple interface: [Link](https://github.com/AndresFelipeRG/Jquery-Interface)
 
-### Unity Games
-These are some of the video games I have developed using the Unity platform and the programming language C#:
-
-- Tic-Tac-Toe unity game(Play on full screen size):[Link](https://andresfeliperg.github.io/TicTacUnityGame/)
-- 2D Side-Scrolling game: [Link](https://andresfeliperg.github.io/UnityGame2D/)
 
 ### Angular
 Angular projects: [Link](https://github.com/AndresFelipeRG/angularprojects)
@@ -51,18 +43,6 @@ I completed a Bachelor of Engineering at McGill university. I completed a major 
 
 #### Laval university
 I completed 2 terms at Laval university in Electrical Engineering. 
-
-## Experience
-#### Software Developer internship at SAP 
-- Developed  code  to integrate a data privacy microservice into the backend of an enterprise application  
-- Developed features for microservices using Java EE, the Spring and the Hibernate frameworks
-- Developed code for REST and OData APIs 
-- Deployed and tested web applications in the Cloud Foundry cloud platform
-- Developed unit and integration tests for the backend and frontend of an enterprise application
-- Created  a docker image to run a Jenkins pipeline and to execute automated tests using Jenkins scripts and plugins
-- Completed SAP online courses about frontend and backend development
-- Supported team members and helped to onboard new team members
-- Wrote a blog post regarding Automated testing and published it in SAP blogs
 
 ## Publications
 -	**Do Software Engineers use autocomplete features differently than other software practitioners?**
